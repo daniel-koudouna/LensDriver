@@ -12,6 +12,7 @@
 .tags
 .tags_sorted_by_file
 TAGS
+.clangd
 
 # Output files
 #out.dot
@@ -26,3 +27,6 @@ a.out
 [#]*[#]
 .\#*
 .*.sw?
+
+
+build
